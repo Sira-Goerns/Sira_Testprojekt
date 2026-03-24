@@ -1,0 +1,1 @@
+Test um mit GIT Clone auf dem Rechner zu pushen (synchronisieren)
